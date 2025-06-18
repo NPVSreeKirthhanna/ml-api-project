@@ -1,4 +1,6 @@
-title,url
-"How do I access the lab portal?","https://discourse.onlinedegree.iitm.ac.in/t/lab-portal-access/12345"
-"What is the deadline for GA3?","https://discourse.onlinedegree.iitm.ac.in/t/ga3-deadline/67890"
-"Which model should we use for Q8 in GA5?","https://discourse.onlinedegree.iitm.ac.in/t/ga5-question-8-clarification/155939/4"
+id,question,answer,url
+1,"How do I access the lab portal?","You can access the lab portal at https://lab.iitm.ac.in.","https://discourse.iitm.ac.in/t/lab-portal"
+2,"What is the deadline for GA3?","The deadline for GA3 is July 5, 2025.","https://discourse.iitm.ac.in/t/ga3-deadline"
+3,"How to submit GA5?","Upload your solution to the submission link shared on Moodle.","https://discourse.iitm.ac.in/t/ga5-submission"
+4,"Where can I find the lecture slides?","Slides are available under the 'Resources' tab on Moodle.","https://discourse.iitm.ac.in/t/lecture-slides"
+5,"Will there be a quiz this week?","No quiz is scheduled for this week.","https://discourse.iitm.ac.in/t/weekly-quiz-status"
